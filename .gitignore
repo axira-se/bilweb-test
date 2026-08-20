@@ -1,0 +1,25 @@
+# Environment / secrets
+.env
+.env.*
+
+# Composer dependencies
+/vendor/
+
+# Logs and temporary files
+*.log
+/tmp/
+/cache/
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Runtime/storage
+/storage/logs/*
+/storage/cache/*
